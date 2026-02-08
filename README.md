@@ -1,0 +1,2 @@
+# SSEF
+SSEF oder Size-to-Sound-Efficiency-Factor ist eine Effizienzkennzahl, die dazu entwickelt wurde, die optimale MP3-Bitrate zur Kompression mit LAME zu bestimmen
