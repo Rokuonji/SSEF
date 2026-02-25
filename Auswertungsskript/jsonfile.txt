@@ -1,0 +1,1235 @@
+[
+  {
+    "answers": [
+      {
+        "answer": 1,
+        "audio1": "audio/Bohemian_Original.wav",
+        "audio2": "audio/Bohemian_32.wav",
+        "comparison": 1,
+        "pairId": "bohemian_orig_vs_32"
+      },
+      {
+        "answer": 1,
+        "audio1": "audio/Bohemian_Original.wav",
+        "audio2": "audio/Bohemian_64.wav",
+        "comparison": 2,
+        "pairId": "bohemian_orig_vs_64"
+      },
+      {
+        "answer": 2,
+        "audio1": "audio/Bohemian_224.wav",
+        "audio2": "audio/Bohemian_Original.wav",
+        "comparison": 3,
+        "pairId": "bohemian_224_vs_orig"
+      },
+      {
+        "answer": 0,
+        "audio1": "audio/Bohemian_128.wav",
+        "audio2": "audio/Bohemian_Original.wav",
+        "comparison": 4,
+        "pairId": "bohemian_128_vs_orig"
+      },
+      {
+        "answer": 0,
+        "audio1": "audio/Bohemian_320.wav",
+        "audio2": "audio/Bohemian_Original.wav",
+        "comparison": 5,
+        "pairId": "bohemian_320_vs_orig"
+      },
+      {
+        "answer": 1,
+        "audio1": "audio/Bohemian_Original.wav",
+        "audio2": "audio/Bohemian_Original.wav",
+        "comparison": 6,
+        "pairId": "bohemian_orig_vs_orig"
+      },
+      {
+        "answer": 2,
+        "audio1": "audio/Conan_Original.wav",
+        "audio2": "audio/Conan_128.wav",
+        "comparison": 7,
+        "pairId": "conan_orig_vs_128"
+      },
+      {
+        "answer": 2,
+        "audio1": "audio/Conan_224.wav",
+        "audio2": "audio/Conan_Original.wav",
+        "comparison": 8,
+        "pairId": "conan_224_vs_orig"
+      },
+      {
+        "answer": 2,
+        "audio1": "audio/Conan_32.wav",
+        "audio2": "audio/Conan_Original.wav",
+        "comparison": 9,
+        "pairId": "conan_32_vs_orig"
+      },
+      {
+        "answer": 1,
+        "audio1": "audio/Conan_Original.wav",
+        "audio2": "audio/Conan_64.wav",
+        "comparison": 10,
+        "pairId": "conan_orig_vs_64"
+      },
+      {
+        "answer": 0,
+        "audio1": "audio/Conan_320.wav",
+        "audio2": "audio/Conan_Original.wav",
+        "comparison": 11,
+        "pairId": "conan_320_vs_orig"
+      },
+      {
+        "answer": 0,
+        "audio1": "audio/Conan_Original.wav",
+        "audio2": "audio/Conan_Original.wav",
+        "comparison": 12,
+        "pairId": "conan_orig_vs_orig"
+      },
+      {
+        "answer": 2,
+        "audio1": "audio/TomsDiner_64.wav",
+        "audio2": "audio/TomsDiner_Original.wav",
+        "comparison": 13,
+        "pairId": "tomsdiner_64_vs_orig"
+      },
+      {
+        "answer": 0,
+        "audio1": "audio/TomsDiner_128.wav",
+        "audio2": "audio/TomsDiner_Original.wav",
+        "comparison": 14,
+        "pairId": "tomsdiner_128_vs_orig"
+      },
+      {
+        "answer": 2,
+        "audio1": "audio/TomsDiner_320.wav",
+        "audio2": "audio/TomsDiner_Original.wav",
+        "comparison": 15,
+        "pairId": "tomsdiner_320_vs_orig"
+      },
+      {
+        "answer": 0,
+        "audio1": "audio/TomsDiner_Original.wav",
+        "audio2": "audio/TomsDiner_224.wav",
+        "comparison": 16,
+        "pairId": "tomsdiner_orig_vs_224"
+      },
+      {
+        "answer": 1,
+        "audio1": "audio/TomsDiner_Original.wav",
+        "audio2": "audio/TomsDiner_32.wav",
+        "comparison": 17,
+        "pairId": "tomsdiner_orig_vs_32"
+      },
+      {
+        "answer": 2,
+        "audio1": "audio/TomsDiner_Original.wav",
+        "audio2": "audio/TomsDiner_Original.wav",
+        "comparison": 18,
+        "pairId": "tomsdiner_orig_vs_orig"
+      }
+    ],
+    "createdAt": "2026-01-01T16:21:05.357901",
+    "durationSeconds": 222,
+    "id": 215,
+    "seed": 3924397161,
+    "submissionId": "079768f4-104f-4179-a1c8-540a07339935",
+    "timestampEnd": "2026-01-01T16:21:05.159Z",
+    "timestampStart": "2026-01-01T16:17:23.450Z"
+  },
+  {
+    "answers": [
+      {
+        "answer": 1,
+        "audio1": "audio/Bohemian_Original.wav",
+        "audio2": "audio/Bohemian_64.wav",
+        "comparison": 1,
+        "pairId": "bohemian_orig_vs_64"
+      },
+      {
+        "answer": 0,
+        "audio1": "audio/Bohemian_128.wav",
+        "audio2": "audio/Bohemian_Original.wav",
+        "comparison": 2,
+        "pairId": "bohemian_128_vs_orig"
+      },
+      {
+        "answer": 0,
+        "audio1": "audio/Bohemian_320.wav",
+        "audio2": "audio/Bohemian_Original.wav",
+        "comparison": 3,
+        "pairId": "bohemian_320_vs_orig"
+      },
+      {
+        "answer": 0,
+        "audio1": "audio/Bohemian_Original.wav",
+        "audio2": "audio/Bohemian_Original.wav",
+        "comparison": 4,
+        "pairId": "bohemian_orig_vs_orig"
+      },
+      {
+        "answer": 1,
+        "audio1": "audio/Bohemian_Original.wav",
+        "audio2": "audio/Bohemian_32.wav",
+        "comparison": 5,
+        "pairId": "bohemian_orig_vs_32"
+      },
+      {
+        "answer": 0,
+        "audio1": "audio/Bohemian_224.wav",
+        "audio2": "audio/Bohemian_Original.wav",
+        "comparison": 6,
+        "pairId": "bohemian_224_vs_orig"
+      },
+      {
+        "answer": 0,
+        "audio1": "audio/Conan_Original.wav",
+        "audio2": "audio/Conan_Original.wav",
+        "comparison": 7,
+        "pairId": "conan_orig_vs_orig"
+      },
+      {
+        "answer": 1,
+        "audio1": "audio/Conan_Original.wav",
+        "audio2": "audio/Conan_64.wav",
+        "comparison": 8,
+        "pairId": "conan_orig_vs_64"
+      },
+      {
+        "answer": 0,
+        "audio1": "audio/Conan_320.wav",
+        "audio2": "audio/Conan_Original.wav",
+        "comparison": 9,
+        "pairId": "conan_320_vs_orig"
+      },
+      {
+        "answer": 0,
+        "audio1": "audio/Conan_Original.wav",
+        "audio2": "audio/Conan_128.wav",
+        "comparison": 10,
+        "pairId": "conan_orig_vs_128"
+      },
+      {
+        "answer": 2,
+        "audio1": "audio/Conan_32.wav",
+        "audio2": "audio/Conan_Original.wav",
+        "comparison": 11,
+        "pairId": "conan_32_vs_orig"
+      },
+      {
+        "answer": 0,
+        "audio1": "audio/Conan_224.wav",
+        "audio2": "audio/Conan_Original.wav",
+        "comparison": 12,
+        "pairId": "conan_224_vs_orig"
+      },
+      {
+        "answer": 0,
+        "audio1": "audio/TomsDiner_Original.wav",
+        "audio2": "audio/TomsDiner_Original.wav",
+        "comparison": 13,
+        "pairId": "tomsdiner_orig_vs_orig"
+      },
+      {
+        "answer": 0,
+        "audio1": "audio/TomsDiner_128.wav",
+        "audio2": "audio/TomsDiner_Original.wav",
+        "comparison": 14,
+        "pairId": "tomsdiner_128_vs_orig"
+      },
+      {
+        "answer": 1,
+        "audio1": "audio/TomsDiner_Original.wav",
+        "audio2": "audio/TomsDiner_32.wav",
+        "comparison": 15,
+        "pairId": "tomsdiner_orig_vs_32"
+      },
+      {
+        "answer": 0,
+        "audio1": "audio/TomsDiner_320.wav",
+        "audio2": "audio/TomsDiner_Original.wav",
+        "comparison": 16,
+        "pairId": "tomsdiner_320_vs_orig"
+      },
+      {
+        "answer": 0,
+        "audio1": "audio/TomsDiner_64.wav",
+        "audio2": "audio/TomsDiner_Original.wav",
+        "comparison": 17,
+        "pairId": "tomsdiner_64_vs_orig"
+      },
+      {
+        "answer": 0,
+        "audio1": "audio/TomsDiner_Original.wav",
+        "audio2": "audio/TomsDiner_224.wav",
+        "comparison": 18,
+        "pairId": "tomsdiner_orig_vs_224"
+      }
+    ],
+    "createdAt": "2026-01-01T16:53:05.058321",
+    "durationSeconds": 265,
+    "id": 216,
+    "seed": 4058099672,
+    "submissionId": "0c2cb844-f1b1-4bc9-83eb-a9fe00d2891b",
+    "timestampEnd": "2026-01-01T16:53:02.999Z",
+    "timestampStart": "2026-01-01T16:48:38.382Z"
+  },
+  {
+    "answers": [
+      {
+        "answer": 0,
+        "audio1": "audio/Bohemian_Original.wav",
+        "audio2": "audio/Bohemian_Original.wav",
+        "comparison": 1,
+        "pairId": "bohemian_orig_vs_orig"
+      },
+      {
+        "answer": 2,
+        "audio1": "audio/Bohemian_224.wav",
+        "audio2": "audio/Bohemian_Original.wav",
+        "comparison": 2,
+        "pairId": "bohemian_224_vs_orig"
+      },
+      {
+        "answer": 1,
+        "audio1": "audio/Bohemian_Original.wav",
+        "audio2": "audio/Bohemian_64.wav",
+        "comparison": 3,
+        "pairId": "bohemian_orig_vs_64"
+      },
+      {
+        "answer": 1,
+        "audio1": "audio/Bohemian_128.wav",
+        "audio2": "audio/Bohemian_Original.wav",
+        "comparison": 4,
+        "pairId": "bohemian_128_vs_orig"
+      },
+      {
+        "answer": 1,
+        "audio1": "audio/Bohemian_320.wav",
+        "audio2": "audio/Bohemian_Original.wav",
+        "comparison": 5,
+        "pairId": "bohemian_320_vs_orig"
+      },
+      {
+        "answer": 1,
+        "audio1": "audio/Bohemian_Original.wav",
+        "audio2": "audio/Bohemian_32.wav",
+        "comparison": 6,
+        "pairId": "bohemian_orig_vs_32"
+      },
+      {
+        "answer": 0,
+        "audio1": "audio/Conan_224.wav",
+        "audio2": "audio/Conan_Original.wav",
+        "comparison": 7,
+        "pairId": "conan_224_vs_orig"
+      },
+      {
+        "answer": 0,
+        "audio1": "audio/Conan_Original.wav",
+        "audio2": "audio/Conan_Original.wav",
+        "comparison": 8,
+        "pairId": "conan_orig_vs_orig"
+      },
+      {
+        "answer": 1,
+        "audio1": "audio/Conan_Original.wav",
+        "audio2": "audio/Conan_128.wav",
+        "comparison": 9,
+        "pairId": "conan_orig_vs_128"
+      },
+      {
+        "answer": 1,
+        "audio1": "audio/Conan_Original.wav",
+        "audio2": "audio/Conan_64.wav",
+        "comparison": 10,
+        "pairId": "conan_orig_vs_64"
+      },
+      {
+        "answer": 0,
+        "audio1": "audio/Conan_320.wav",
+        "audio2": "audio/Conan_Original.wav",
+        "comparison": 11,
+        "pairId": "conan_320_vs_orig"
+      },
+      {
+        "answer": 2,
+        "audio1": "audio/Conan_32.wav",
+        "audio2": "audio/Conan_Original.wav",
+        "comparison": 12,
+        "pairId": "conan_32_vs_orig"
+      },
+      {
+        "answer": 0,
+        "audio1": "audio/TomsDiner_Original.wav",
+        "audio2": "audio/TomsDiner_224.wav",
+        "comparison": 13,
+        "pairId": "tomsdiner_orig_vs_224"
+      },
+      {
+        "answer": 2,
+        "audio1": "audio/TomsDiner_64.wav",
+        "audio2": "audio/TomsDiner_Original.wav",
+        "comparison": 14,
+        "pairId": "tomsdiner_64_vs_orig"
+      },
+      {
+        "answer": 0,
+        "audio1": "audio/TomsDiner_128.wav",
+        "audio2": "audio/TomsDiner_Original.wav",
+        "comparison": 15,
+        "pairId": "tomsdiner_128_vs_orig"
+      },
+      {
+        "answer": 0,
+        "audio1": "audio/TomsDiner_320.wav",
+        "audio2": "audio/TomsDiner_Original.wav",
+        "comparison": 16,
+        "pairId": "tomsdiner_320_vs_orig"
+      },
+      {
+        "answer": 0,
+        "audio1": "audio/TomsDiner_Original.wav",
+        "audio2": "audio/TomsDiner_Original.wav",
+        "comparison": 17,
+        "pairId": "tomsdiner_orig_vs_orig"
+      },
+      {
+        "answer": 1,
+        "audio1": "audio/TomsDiner_Original.wav",
+        "audio2": "audio/TomsDiner_32.wav",
+        "comparison": 18,
+        "pairId": "tomsdiner_orig_vs_32"
+      }
+    ],
+    "createdAt": "2026-01-01T17:10:35.256416",
+    "durationSeconds": 363,
+    "id": 217,
+    "seed": 3686530365,
+    "submissionId": "262087ae-d0b7-4e2f-99ce-21deca1ba8dc",
+    "timestampEnd": "2026-01-01T17:10:35.225Z",
+    "timestampStart": "2026-01-01T17:04:32.084Z"
+  },
+  {
+    "answers": [
+      {
+        "answer": 0,
+        "audio1": "audio/Bohemian_Original.wav",
+        "audio2": "audio/Bohemian_32.wav",
+        "comparison": 1,
+        "pairId": "bohemian_orig_vs_32"
+      },
+      {
+        "answer": 0,
+        "audio1": "audio/Bohemian_128.wav",
+        "audio2": "audio/Bohemian_Original.wav",
+        "comparison": 2,
+        "pairId": "bohemian_128_vs_orig"
+      },
+      {
+        "answer": 0,
+        "audio1": "audio/Bohemian_Original.wav",
+        "audio2": "audio/Bohemian_Original.wav",
+        "comparison": 3,
+        "pairId": "bohemian_orig_vs_orig"
+      },
+      {
+        "answer": 1,
+        "audio1": "audio/Bohemian_Original.wav",
+        "audio2": "audio/Bohemian_64.wav",
+        "comparison": 4,
+        "pairId": "bohemian_orig_vs_64"
+      },
+      {
+        "answer": 0,
+        "audio1": "audio/Bohemian_320.wav",
+        "audio2": "audio/Bohemian_Original.wav",
+        "comparison": 5,
+        "pairId": "bohemian_320_vs_orig"
+      },
+      {
+        "answer": 0,
+        "audio1": "audio/Bohemian_224.wav",
+        "audio2": "audio/Bohemian_Original.wav",
+        "comparison": 6,
+        "pairId": "bohemian_224_vs_orig"
+      },
+      {
+        "answer": 1,
+        "audio1": "audio/Conan_Original.wav",
+        "audio2": "audio/Conan_128.wav",
+        "comparison": 7,
+        "pairId": "conan_orig_vs_128"
+      },
+      {
+        "answer": 2,
+        "audio1": "audio/Conan_Original.wav",
+        "audio2": "audio/Conan_Original.wav",
+        "comparison": 8,
+        "pairId": "conan_orig_vs_orig"
+      },
+      {
+        "answer": 1,
+        "audio1": "audio/Conan_Original.wav",
+        "audio2": "audio/Conan_64.wav",
+        "comparison": 9,
+        "pairId": "conan_orig_vs_64"
+      },
+      {
+        "answer": 2,
+        "audio1": "audio/Conan_32.wav",
+        "audio2": "audio/Conan_Original.wav",
+        "comparison": 10,
+        "pairId": "conan_32_vs_orig"
+      },
+      {
+        "answer": 0,
+        "audio1": "audio/Conan_320.wav",
+        "audio2": "audio/Conan_Original.wav",
+        "comparison": 11,
+        "pairId": "conan_320_vs_orig"
+      },
+      {
+        "answer": 2,
+        "audio1": "audio/Conan_224.wav",
+        "audio2": "audio/Conan_Original.wav",
+        "comparison": 12,
+        "pairId": "conan_224_vs_orig"
+      },
+      {
+        "answer": 0,
+        "audio1": "audio/TomsDiner_Original.wav",
+        "audio2": "audio/TomsDiner_Original.wav",
+        "comparison": 13,
+        "pairId": "tomsdiner_orig_vs_orig"
+      },
+      {
+        "answer": 0,
+        "audio1": "audio/TomsDiner_320.wav",
+        "audio2": "audio/TomsDiner_Original.wav",
+        "comparison": 14,
+        "pairId": "tomsdiner_320_vs_orig"
+      },
+      {
+        "answer": 2,
+        "audio1": "audio/TomsDiner_64.wav",
+        "audio2": "audio/TomsDiner_Original.wav",
+        "comparison": 15,
+        "pairId": "tomsdiner_64_vs_orig"
+      },
+      {
+        "answer": 2,
+        "audio1": "audio/TomsDiner_128.wav",
+        "audio2": "audio/TomsDiner_Original.wav",
+        "comparison": 16,
+        "pairId": "tomsdiner_128_vs_orig"
+      },
+      {
+        "answer": 1,
+        "audio1": "audio/TomsDiner_Original.wav",
+        "audio2": "audio/TomsDiner_32.wav",
+        "comparison": 17,
+        "pairId": "tomsdiner_orig_vs_32"
+      },
+      {
+        "answer": 0,
+        "audio1": "audio/TomsDiner_Original.wav",
+        "audio2": "audio/TomsDiner_224.wav",
+        "comparison": 18,
+        "pairId": "tomsdiner_orig_vs_224"
+      }
+    ],
+    "createdAt": "2026-01-01T17:12:42.069560",
+    "durationSeconds": 149,
+    "id": 218,
+    "seed": 452930409,
+    "submissionId": "def88485-2195-4d00-a3f6-608545b91e9e",
+    "timestampEnd": "2026-01-01T17:12:42.373Z",
+    "timestampStart": "2026-01-01T17:10:13.523Z"
+  },
+  {
+    "answers": [
+      {
+        "answer": 1,
+        "audio1": "audio/Bohemian_128.wav",
+        "audio2": "audio/Bohemian_Original.wav",
+        "comparison": 1,
+        "pairId": "bohemian_128_vs_orig"
+      },
+      {
+        "answer": 0,
+        "audio1": "audio/Bohemian_Original.wav",
+        "audio2": "audio/Bohemian_64.wav",
+        "comparison": 2,
+        "pairId": "bohemian_orig_vs_64"
+      },
+      {
+        "answer": 2,
+        "audio1": "audio/Bohemian_224.wav",
+        "audio2": "audio/Bohemian_Original.wav",
+        "comparison": 3,
+        "pairId": "bohemian_224_vs_orig"
+      },
+      {
+        "answer": 1,
+        "audio1": "audio/Bohemian_Original.wav",
+        "audio2": "audio/Bohemian_Original.wav",
+        "comparison": 4,
+        "pairId": "bohemian_orig_vs_orig"
+      },
+      {
+        "answer": 2,
+        "audio1": "audio/Bohemian_Original.wav",
+        "audio2": "audio/Bohemian_32.wav",
+        "comparison": 5,
+        "pairId": "bohemian_orig_vs_32"
+      },
+      {
+        "answer": 0,
+        "audio1": "audio/Bohemian_320.wav",
+        "audio2": "audio/Bohemian_Original.wav",
+        "comparison": 6,
+        "pairId": "bohemian_320_vs_orig"
+      },
+      {
+        "answer": 2,
+        "audio1": "audio/Conan_Original.wav",
+        "audio2": "audio/Conan_Original.wav",
+        "comparison": 7,
+        "pairId": "conan_orig_vs_orig"
+      },
+      {
+        "answer": 2,
+        "audio1": "audio/Conan_224.wav",
+        "audio2": "audio/Conan_Original.wav",
+        "comparison": 8,
+        "pairId": "conan_224_vs_orig"
+      },
+      {
+        "answer": 1,
+        "audio1": "audio/Conan_32.wav",
+        "audio2": "audio/Conan_Original.wav",
+        "comparison": 9,
+        "pairId": "conan_32_vs_orig"
+      },
+      {
+        "answer": 0,
+        "audio1": "audio/Conan_Original.wav",
+        "audio2": "audio/Conan_128.wav",
+        "comparison": 10,
+        "pairId": "conan_orig_vs_128"
+      },
+      {
+        "answer": 2,
+        "audio1": "audio/Conan_Original.wav",
+        "audio2": "audio/Conan_64.wav",
+        "comparison": 11,
+        "pairId": "conan_orig_vs_64"
+      },
+      {
+        "answer": 1,
+        "audio1": "audio/Conan_320.wav",
+        "audio2": "audio/Conan_Original.wav",
+        "comparison": 12,
+        "pairId": "conan_320_vs_orig"
+      },
+      {
+        "answer": 1,
+        "audio1": "audio/TomsDiner_128.wav",
+        "audio2": "audio/TomsDiner_Original.wav",
+        "comparison": 13,
+        "pairId": "tomsdiner_128_vs_orig"
+      },
+      {
+        "answer": 0,
+        "audio1": "audio/TomsDiner_Original.wav",
+        "audio2": "audio/TomsDiner_224.wav",
+        "comparison": 14,
+        "pairId": "tomsdiner_orig_vs_224"
+      },
+      {
+        "answer": 2,
+        "audio1": "audio/TomsDiner_Original.wav",
+        "audio2": "audio/TomsDiner_32.wav",
+        "comparison": 15,
+        "pairId": "tomsdiner_orig_vs_32"
+      },
+      {
+        "answer": 2,
+        "audio1": "audio/TomsDiner_Original.wav",
+        "audio2": "audio/TomsDiner_Original.wav",
+        "comparison": 16,
+        "pairId": "tomsdiner_orig_vs_orig"
+      },
+      {
+        "answer": 1,
+        "audio1": "audio/TomsDiner_64.wav",
+        "audio2": "audio/TomsDiner_Original.wav",
+        "comparison": 17,
+        "pairId": "tomsdiner_64_vs_orig"
+      },
+      {
+        "answer": 1,
+        "audio1": "audio/TomsDiner_320.wav",
+        "audio2": "audio/TomsDiner_Original.wav",
+        "comparison": 18,
+        "pairId": "tomsdiner_320_vs_orig"
+      }
+    ],
+    "createdAt": "2026-01-01T17:39:26.786185",
+    "durationSeconds": 17,
+    "id": 219,
+    "seed": 3828626366,
+    "submissionId": "90cdd668-2723-4c48-a45f-6a64fa8af74e",
+    "timestampEnd": "2026-01-01T17:39:26.589Z",
+    "timestampStart": "2026-01-01T17:39:09.434Z"
+  },
+  {
+    "answers": [
+      {
+        "answer": 0,
+        "audio1": "audio/Bohemian_320.wav",
+        "audio2": "audio/Bohemian_Original.wav",
+        "comparison": 1,
+        "pairId": "bohemian_320_vs_orig"
+      },
+      {
+        "answer": 1,
+        "audio1": "audio/Bohemian_Original.wav",
+        "audio2": "audio/Bohemian_Original.wav",
+        "comparison": 2,
+        "pairId": "bohemian_orig_vs_orig"
+      },
+      {
+        "answer": 2,
+        "audio1": "audio/Bohemian_224.wav",
+        "audio2": "audio/Bohemian_Original.wav",
+        "comparison": 3,
+        "pairId": "bohemian_224_vs_orig"
+      },
+      {
+        "answer": 1,
+        "audio1": "audio/Bohemian_Original.wav",
+        "audio2": "audio/Bohemian_64.wav",
+        "comparison": 4,
+        "pairId": "bohemian_orig_vs_64"
+      },
+      {
+        "answer": 0,
+        "audio1": "audio/Bohemian_Original.wav",
+        "audio2": "audio/Bohemian_32.wav",
+        "comparison": 5,
+        "pairId": "bohemian_orig_vs_32"
+      },
+      {
+        "answer": 1,
+        "audio1": "audio/Bohemian_128.wav",
+        "audio2": "audio/Bohemian_Original.wav",
+        "comparison": 6,
+        "pairId": "bohemian_128_vs_orig"
+      },
+      {
+        "answer": 2,
+        "audio1": "audio/Conan_Original.wav",
+        "audio2": "audio/Conan_64.wav",
+        "comparison": 7,
+        "pairId": "conan_orig_vs_64"
+      },
+      {
+        "answer": 0,
+        "audio1": "audio/Conan_320.wav",
+        "audio2": "audio/Conan_Original.wav",
+        "comparison": 8,
+        "pairId": "conan_320_vs_orig"
+      },
+      {
+        "answer": 2,
+        "audio1": "audio/Conan_Original.wav",
+        "audio2": "audio/Conan_Original.wav",
+        "comparison": 9,
+        "pairId": "conan_orig_vs_orig"
+      },
+      {
+        "answer": 0,
+        "audio1": "audio/Conan_224.wav",
+        "audio2": "audio/Conan_Original.wav",
+        "comparison": 10,
+        "pairId": "conan_224_vs_orig"
+      },
+      {
+        "answer": 1,
+        "audio1": "audio/Conan_32.wav",
+        "audio2": "audio/Conan_Original.wav",
+        "comparison": 11,
+        "pairId": "conan_32_vs_orig"
+      },
+      {
+        "answer": 0,
+        "audio1": "audio/Conan_Original.wav",
+        "audio2": "audio/Conan_128.wav",
+        "comparison": 12,
+        "pairId": "conan_orig_vs_128"
+      },
+      {
+        "answer": 2,
+        "audio1": "audio/TomsDiner_320.wav",
+        "audio2": "audio/TomsDiner_Original.wav",
+        "comparison": 13,
+        "pairId": "tomsdiner_320_vs_orig"
+      },
+      {
+        "answer": 1,
+        "audio1": "audio/TomsDiner_Original.wav",
+        "audio2": "audio/TomsDiner_32.wav",
+        "comparison": 14,
+        "pairId": "tomsdiner_orig_vs_32"
+      },
+      {
+        "answer": 0,
+        "audio1": "audio/TomsDiner_Original.wav",
+        "audio2": "audio/TomsDiner_224.wav",
+        "comparison": 15,
+        "pairId": "tomsdiner_orig_vs_224"
+      },
+      {
+        "answer": 0,
+        "audio1": "audio/TomsDiner_Original.wav",
+        "audio2": "audio/TomsDiner_Original.wav",
+        "comparison": 16,
+        "pairId": "tomsdiner_orig_vs_orig"
+      },
+      {
+        "answer": 2,
+        "audio1": "audio/TomsDiner_64.wav",
+        "audio2": "audio/TomsDiner_Original.wav",
+        "comparison": 17,
+        "pairId": "tomsdiner_64_vs_orig"
+      },
+      {
+        "answer": 1,
+        "audio1": "audio/TomsDiner_128.wav",
+        "audio2": "audio/TomsDiner_Original.wav",
+        "comparison": 18,
+        "pairId": "tomsdiner_128_vs_orig"
+      }
+    ],
+    "createdAt": "2026-01-01T19:26:15.374051",
+    "durationSeconds": 136,
+    "id": 220,
+    "seed": 3906387955,
+    "submissionId": "fbf34687-8339-46b9-a70b-28b660f977f0",
+    "timestampEnd": "2026-01-01T19:26:15.283Z",
+    "timestampStart": "2026-01-01T19:23:59.629Z"
+  },
+  {
+    "answers": [
+      {
+        "answer": 1,
+        "audio1": "audio/Bohemian_Original.wav",
+        "audio2": "audio/Bohemian_64.wav",
+        "comparison": 1,
+        "pairId": "bohemian_orig_vs_64"
+      },
+      {
+        "answer": 0,
+        "audio1": "audio/Bohemian_224.wav",
+        "audio2": "audio/Bohemian_Original.wav",
+        "comparison": 2,
+        "pairId": "bohemian_224_vs_orig"
+      },
+      {
+        "answer": 0,
+        "audio1": "audio/Bohemian_128.wav",
+        "audio2": "audio/Bohemian_Original.wav",
+        "comparison": 3,
+        "pairId": "bohemian_128_vs_orig"
+      },
+      {
+        "answer": 0,
+        "audio1": "audio/Bohemian_320.wav",
+        "audio2": "audio/Bohemian_Original.wav",
+        "comparison": 4,
+        "pairId": "bohemian_320_vs_orig"
+      },
+      {
+        "answer": 1,
+        "audio1": "audio/Bohemian_Original.wav",
+        "audio2": "audio/Bohemian_32.wav",
+        "comparison": 5,
+        "pairId": "bohemian_orig_vs_32"
+      },
+      {
+        "answer": 0,
+        "audio1": "audio/Bohemian_Original.wav",
+        "audio2": "audio/Bohemian_Original.wav",
+        "comparison": 6,
+        "pairId": "bohemian_orig_vs_orig"
+      },
+      {
+        "answer": 1,
+        "audio1": "audio/Conan_Original.wav",
+        "audio2": "audio/Conan_64.wav",
+        "comparison": 7,
+        "pairId": "conan_orig_vs_64"
+      },
+      {
+        "answer": 0,
+        "audio1": "audio/Conan_320.wav",
+        "audio2": "audio/Conan_Original.wav",
+        "comparison": 8,
+        "pairId": "conan_320_vs_orig"
+      },
+      {
+        "answer": 0,
+        "audio1": "audio/Conan_Original.wav",
+        "audio2": "audio/Conan_128.wav",
+        "comparison": 9,
+        "pairId": "conan_orig_vs_128"
+      },
+      {
+        "answer": 0,
+        "audio1": "audio/Conan_224.wav",
+        "audio2": "audio/Conan_Original.wav",
+        "comparison": 10,
+        "pairId": "conan_224_vs_orig"
+      },
+      {
+        "answer": 2,
+        "audio1": "audio/Conan_32.wav",
+        "audio2": "audio/Conan_Original.wav",
+        "comparison": 11,
+        "pairId": "conan_32_vs_orig"
+      },
+      {
+        "answer": 0,
+        "audio1": "audio/Conan_Original.wav",
+        "audio2": "audio/Conan_Original.wav",
+        "comparison": 12,
+        "pairId": "conan_orig_vs_orig"
+      },
+      {
+        "answer": 1,
+        "audio1": "audio/TomsDiner_Original.wav",
+        "audio2": "audio/TomsDiner_32.wav",
+        "comparison": 13,
+        "pairId": "tomsdiner_orig_vs_32"
+      },
+      {
+        "answer": 0,
+        "audio1": "audio/TomsDiner_320.wav",
+        "audio2": "audio/TomsDiner_Original.wav",
+        "comparison": 14,
+        "pairId": "tomsdiner_320_vs_orig"
+      },
+      {
+        "answer": 0,
+        "audio1": "audio/TomsDiner_Original.wav",
+        "audio2": "audio/TomsDiner_224.wav",
+        "comparison": 15,
+        "pairId": "tomsdiner_orig_vs_224"
+      },
+      {
+        "answer": 0,
+        "audio1": "audio/TomsDiner_128.wav",
+        "audio2": "audio/TomsDiner_Original.wav",
+        "comparison": 16,
+        "pairId": "tomsdiner_128_vs_orig"
+      },
+      {
+        "answer": 2,
+        "audio1": "audio/TomsDiner_64.wav",
+        "audio2": "audio/TomsDiner_Original.wav",
+        "comparison": 17,
+        "pairId": "tomsdiner_64_vs_orig"
+      },
+      {
+        "answer": 0,
+        "audio1": "audio/TomsDiner_Original.wav",
+        "audio2": "audio/TomsDiner_Original.wav",
+        "comparison": 18,
+        "pairId": "tomsdiner_orig_vs_orig"
+      }
+    ],
+    "createdAt": "2026-01-01T19:32:45.243089",
+    "durationSeconds": 331,
+    "id": 221,
+    "seed": 918566429,
+    "submissionId": "bd755f0c-92f4-4cca-9e2f-51811cbb6c1b",
+    "timestampEnd": "2026-01-01T19:32:44.916Z",
+    "timestampStart": "2026-01-01T19:27:13.494Z"
+  },
+  {
+    "answers": [
+      {
+        "answer": 0,
+        "audio1": "audio/Bohemian_128.wav",
+        "audio2": "audio/Bohemian_Original.wav",
+        "comparison": 1,
+        "pairId": "bohemian_128_vs_orig"
+      },
+      {
+        "answer": 1,
+        "audio1": "audio/Bohemian_Original.wav",
+        "audio2": "audio/Bohemian_32.wav",
+        "comparison": 2,
+        "pairId": "bohemian_orig_vs_32"
+      },
+      {
+        "answer": 0,
+        "audio1": "audio/Bohemian_224.wav",
+        "audio2": "audio/Bohemian_Original.wav",
+        "comparison": 3,
+        "pairId": "bohemian_224_vs_orig"
+      },
+      {
+        "answer": 1,
+        "audio1": "audio/Bohemian_Original.wav",
+        "audio2": "audio/Bohemian_64.wav",
+        "comparison": 4,
+        "pairId": "bohemian_orig_vs_64"
+      },
+      {
+        "answer": 0,
+        "audio1": "audio/Bohemian_320.wav",
+        "audio2": "audio/Bohemian_Original.wav",
+        "comparison": 5,
+        "pairId": "bohemian_320_vs_orig"
+      },
+      {
+        "answer": 0,
+        "audio1": "audio/Bohemian_Original.wav",
+        "audio2": "audio/Bohemian_Original.wav",
+        "comparison": 6,
+        "pairId": "bohemian_orig_vs_orig"
+      },
+      {
+        "answer": 2,
+        "audio1": "audio/Conan_Original.wav",
+        "audio2": "audio/Conan_128.wav",
+        "comparison": 7,
+        "pairId": "conan_orig_vs_128"
+      },
+      {
+        "answer": 1,
+        "audio1": "audio/Conan_224.wav",
+        "audio2": "audio/Conan_Original.wav",
+        "comparison": 8,
+        "pairId": "conan_224_vs_orig"
+      },
+      {
+        "answer": 1,
+        "audio1": "audio/Conan_Original.wav",
+        "audio2": "audio/Conan_64.wav",
+        "comparison": 9,
+        "pairId": "conan_orig_vs_64"
+      },
+      {
+        "answer": 2,
+        "audio1": "audio/Conan_32.wav",
+        "audio2": "audio/Conan_Original.wav",
+        "comparison": 10,
+        "pairId": "conan_32_vs_orig"
+      },
+      {
+        "answer": 1,
+        "audio1": "audio/Conan_320.wav",
+        "audio2": "audio/Conan_Original.wav",
+        "comparison": 11,
+        "pairId": "conan_320_vs_orig"
+      },
+      {
+        "answer": 0,
+        "audio1": "audio/Conan_Original.wav",
+        "audio2": "audio/Conan_Original.wav",
+        "comparison": 12,
+        "pairId": "conan_orig_vs_orig"
+      },
+      {
+        "answer": 1,
+        "audio1": "audio/TomsDiner_320.wav",
+        "audio2": "audio/TomsDiner_Original.wav",
+        "comparison": 13,
+        "pairId": "tomsdiner_320_vs_orig"
+      },
+      {
+        "answer": 0,
+        "audio1": "audio/TomsDiner_Original.wav",
+        "audio2": "audio/TomsDiner_224.wav",
+        "comparison": 14,
+        "pairId": "tomsdiner_orig_vs_224"
+      },
+      {
+        "answer": 2,
+        "audio1": "audio/TomsDiner_64.wav",
+        "audio2": "audio/TomsDiner_Original.wav",
+        "comparison": 15,
+        "pairId": "tomsdiner_64_vs_orig"
+      },
+      {
+        "answer": 0,
+        "audio1": "audio/TomsDiner_128.wav",
+        "audio2": "audio/TomsDiner_Original.wav",
+        "comparison": 16,
+        "pairId": "tomsdiner_128_vs_orig"
+      },
+      {
+        "answer": 1,
+        "audio1": "audio/TomsDiner_Original.wav",
+        "audio2": "audio/TomsDiner_32.wav",
+        "comparison": 17,
+        "pairId": "tomsdiner_orig_vs_32"
+      },
+      {
+        "answer": 2,
+        "audio1": "audio/TomsDiner_Original.wav",
+        "audio2": "audio/TomsDiner_Original.wav",
+        "comparison": 18,
+        "pairId": "tomsdiner_orig_vs_orig"
+      }
+    ],
+    "createdAt": "2026-01-01T19:46:46.484007",
+    "durationSeconds": 598,
+    "id": 222,
+    "seed": 3964840741,
+    "submissionId": "178ca624-adaf-4e3c-9e00-fe1df356db82",
+    "timestampEnd": "2026-01-01T19:46:45.461Z",
+    "timestampStart": "2026-01-01T19:36:47.004Z"
+  },
+  {
+    "answers": [
+      {
+        "answer": 1,
+        "audio1": "audio/Bohemian_Original.wav",
+        "audio2": "audio/Bohemian_32.wav",
+        "comparison": 1,
+        "pairId": "bohemian_orig_vs_32"
+      },
+      {
+        "answer": 0,
+        "audio1": "audio/Bohemian_320.wav",
+        "audio2": "audio/Bohemian_Original.wav",
+        "comparison": 2,
+        "pairId": "bohemian_320_vs_orig"
+      },
+      {
+        "answer": 0,
+        "audio1": "audio/Bohemian_Original.wav",
+        "audio2": "audio/Bohemian_Original.wav",
+        "comparison": 3,
+        "pairId": "bohemian_orig_vs_orig"
+      },
+      {
+        "answer": 0,
+        "audio1": "audio/Bohemian_224.wav",
+        "audio2": "audio/Bohemian_Original.wav",
+        "comparison": 4,
+        "pairId": "bohemian_224_vs_orig"
+      },
+      {
+        "answer": 0,
+        "audio1": "audio/Bohemian_Original.wav",
+        "audio2": "audio/Bohemian_64.wav",
+        "comparison": 5,
+        "pairId": "bohemian_orig_vs_64"
+      },
+      {
+        "answer": 0,
+        "audio1": "audio/Bohemian_128.wav",
+        "audio2": "audio/Bohemian_Original.wav",
+        "comparison": 6,
+        "pairId": "bohemian_128_vs_orig"
+      },
+      {
+        "answer": 2,
+        "audio1": "audio/Conan_32.wav",
+        "audio2": "audio/Conan_Original.wav",
+        "comparison": 7,
+        "pairId": "conan_32_vs_orig"
+      },
+      {
+        "answer": 0,
+        "audio1": "audio/Conan_Original.wav",
+        "audio2": "audio/Conan_64.wav",
+        "comparison": 8,
+        "pairId": "conan_orig_vs_64"
+      },
+      {
+        "answer": 0,
+        "audio1": "audio/Conan_224.wav",
+        "audio2": "audio/Conan_Original.wav",
+        "comparison": 9,
+        "pairId": "conan_224_vs_orig"
+      },
+      {
+        "answer": 0,
+        "audio1": "audio/Conan_320.wav",
+        "audio2": "audio/Conan_Original.wav",
+        "comparison": 10,
+        "pairId": "conan_320_vs_orig"
+      },
+      {
+        "answer": 0,
+        "audio1": "audio/Conan_Original.wav",
+        "audio2": "audio/Conan_Original.wav",
+        "comparison": 11,
+        "pairId": "conan_orig_vs_orig"
+      },
+      {
+        "answer": 0,
+        "audio1": "audio/Conan_Original.wav",
+        "audio2": "audio/Conan_128.wav",
+        "comparison": 12,
+        "pairId": "conan_orig_vs_128"
+      },
+      {
+        "answer": 0,
+        "audio1": "audio/TomsDiner_Original.wav",
+        "audio2": "audio/TomsDiner_224.wav",
+        "comparison": 13,
+        "pairId": "tomsdiner_orig_vs_224"
+      },
+      {
+        "answer": 0,
+        "audio1": "audio/TomsDiner_Original.wav",
+        "audio2": "audio/TomsDiner_32.wav",
+        "comparison": 14,
+        "pairId": "tomsdiner_orig_vs_32"
+      },
+      {
+        "answer": 0,
+        "audio1": "audio/TomsDiner_320.wav",
+        "audio2": "audio/TomsDiner_Original.wav",
+        "comparison": 15,
+        "pairId": "tomsdiner_320_vs_orig"
+      },
+      {
+        "answer": 2,
+        "audio1": "audio/TomsDiner_64.wav",
+        "audio2": "audio/TomsDiner_Original.wav",
+        "comparison": 16,
+        "pairId": "tomsdiner_64_vs_orig"
+      },
+      {
+        "answer": 0,
+        "audio1": "audio/TomsDiner_Original.wav",
+        "audio2": "audio/TomsDiner_Original.wav",
+        "comparison": 17,
+        "pairId": "tomsdiner_orig_vs_orig"
+      },
+      {
+        "answer": 0,
+        "audio1": "audio/TomsDiner_128.wav",
+        "audio2": "audio/TomsDiner_Original.wav",
+        "comparison": 18,
+        "pairId": "tomsdiner_128_vs_orig"
+      }
+    ],
+    "createdAt": "2026-01-01T19:58:06.624263",
+    "durationSeconds": 286,
+    "id": 223,
+    "seed": 1082682486,
+    "submissionId": "d8371af4-0a70-45d2-b333-39e0f3155644",
+    "timestampEnd": "2026-01-01T19:58:05.565Z",
+    "timestampStart": "2026-01-01T19:53:19.133Z"
+  }
+]
