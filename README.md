@@ -38,9 +38,9 @@ für maschinelle Berechnung nötig:
 ## Durchzuführende Rechnungen
 
 Die aus der Rechnung resultierende Objective Difference Grade bzw. ODG in folgende Formel einsetzen:
-$O_{obj} = \frac{ODG + 4}{4}$
+$Q_{obj} = \frac{ODG + 4}{4}$
 
-Die resultierenden $O_{obj}$- & $O_{subj}$-Werte werden in folgende Formel eingesetzt:
+Die resultierenden $Q_{obj}$- & $Q_{subj}$-Werte werden in folgende Formel eingesetzt:
 $Q_{total} = 0,6 \times Q_{subj} + 0,4 \times Q_{obj}$
 
 Nun wird der Speicheraufwand für diese .mp3-Datei relativ zu allen anderen .mp3-Dateien mit anderen Bitraten normiert:
