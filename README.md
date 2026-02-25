@@ -44,13 +44,13 @@ Die resultierenden $O_{obj}$- & $O_{subj}$-Werte werden in folgende Formel einge
 $Q_{total} = 0,6 \times Q_{subj} + 0,4 \times Q_{obj}$
 
 Nun wird der Speicheraufwand für diese .mp3-Datei relativ zu allen anderen .mp3-Dateien mit anderen Bitraten normiert:
-$\frac{S - S_{min}}{S_{max} - S_{min}}$\\\\
-$S = \text{Speicheraufwand dieser .mp3-Datei}$\\\\
-$S_{min} = \text{Speicheraufwand der kleinsten .mp3-Datei}$\\\\
-$S_{max} = \text{Speicheraufwand der größten .mp3-Datei}$\\\\
+$\frac{S - S_{min}}{S_{max} - S_{min}}\\\\$
+$S = \text{Speicheraufwand dieser .mp3-Datei}\\\\$
+$S_{min} = \text{Speicheraufwand der kleinsten .mp3-Datei}\\\\$
+$S_{max} = \text{Speicheraufwand der größten .mp3-Datei}\\\\$
 
 Die resultierenden $Q_{total}$-Wert werden in die folgende Formel eingesetzt:
-$SSEF = Q_{total} \times (1 - S_norm + 0,05)$
+$SSEF = Q_{total} \times (1 - S_{norm} + 0,05)$
 
 ## Alle verwendeten Tools:
 - draw.io für Schemata
