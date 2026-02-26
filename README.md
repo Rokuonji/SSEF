@@ -25,7 +25,7 @@ Wertet Umfrageergebnisse aus und exportiert sie in die Excel-Vorlage.
 ### Den SSEF einer MP3-Datei bestimmen
 für maschinelle Berechnung nötig:
 - Original-Datei (im .wav-Format) muss zu "ref.wav" umbenannt werden
-- komprimierte .mp3 (zurück in .wav dekomprimiere) muss zu "test.wav" umbenannt werden
+- komprimierte .mp3 (zurück in .wav dekomprimieren) muss zu "test.wav" umbenannt werden
 
 ### in Ubuntu-Umgebung folgenden Code ausführen:
 	sudo apt install git (falls nicht schon vorhanden)
