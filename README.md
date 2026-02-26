@@ -11,7 +11,7 @@ Wertet Umfrageergebnisse aus und exportiert sie in die Excel-Vorlage.
 - Python 3
 - openpyxl (macht Export in Excel möglich)
 - Im gleichen Ordner wie [answerfinder.py](Auswertungsskript/answerfinder.py):
-	- [jsonfile.txt](Auswertungsskript/jsonfile.txt) (1:1 Export aus der Datenbank von soundcompare.onrender.com)
+	- [jsonfile.txt](Auswertungsskript/jsonfile.txt) (1:1 Export aus der Datenbank von www.soundcompare.onrender.com)
 	- [Mappe1.xlsx](Auswertungsskript/Mappe1.xlsx) (Vorlage)
 - Ausführung in Windows Powershell
 
