@@ -24,7 +24,7 @@ Wertet Umfrageergebnisse aus und exportiert sie in die Excel-Vorlage.
 ## Code zur Reproduktion in einer Ubuntu-Umgebung
 ### Den SSEF einer MP3-Datei bestimmen
 für maschinelle Berechnung nötig:
-- Original-Datei (im .wav-Format muss zu "ref.wav" umbenannt werden
+- Original-Datei (im .wav-Format) muss zu "ref.wav" umbenannt werden
 - komprimierte .mp3 (zurück in .wav dekomprimiere) muss zu "test.wav" umbenannt werden
 
 ### in Ubuntu-Umgebung folgenden Code ausführen:
